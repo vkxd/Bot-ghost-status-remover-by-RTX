@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌟 discord.gg/flyn","CHEAP SERVICES","VOUCH BOT", "By Kad 💕"];
+const statusMessages = ["🌠Vouch Bot","By Kad","💜.gg/flyn"];
 
 
 let currentIndex = 0;
